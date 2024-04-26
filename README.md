@@ -20,6 +20,8 @@ This is my first local change to the repo.
 2. Second Item
 3. Third Item
 
-**Images**
 **Remote Images**
 ![An Image of a Cat](https://placekitten.com/200/300)
+
+**Local Images**
+![An Image of the Mona Lisa](READMEimage/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
