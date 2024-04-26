@@ -22,4 +22,4 @@ This is my first local change to the repo.
 
 **Images**
 **Remote Images**
-![An Image of a Cat](http://placekitten.com/200/300)
+![An Image of a Cat](https://placekitten.com/200/300)
