@@ -20,5 +20,6 @@ This is my first local change to the repo.
 2. Second Item
 3. Third Item
 
-[Link Text](https://wwww.google.com)
-
+**Images**
+**Remote Images**
+![An Image of a Cat](http://placekitten.com/200/300)
